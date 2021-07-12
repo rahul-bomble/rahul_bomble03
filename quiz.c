@@ -1,4 +1,4 @@
-//c project on quiz game by deepak sharma
+
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>
